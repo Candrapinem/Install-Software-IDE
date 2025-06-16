@@ -86,7 +86,7 @@ qgis
 
 ## 📷 Sumber Gambar
 
-Semua gambar langkah-langkah diambil langsung dari proses instalasi pada sistem Ubuntu 24.04.
+Semua gambar langkah-langkah diambil langsung dari proses instalasi pada sistem Ubuntu 22.04.
 
 ---
 
