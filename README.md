@@ -1,4 +1,4 @@
-# Panduan Instalasi QGIS di Ubuntu 24.04 LTS
+# Panduan Instalasi QGIS di Ubuntu 22.04 LTS
 
 Panduan ini menjelaskan langkah-langkah untuk menginstal QGIS versi stabil terbaru di sistem operasi Ubuntu 24.04 LTS.
 
