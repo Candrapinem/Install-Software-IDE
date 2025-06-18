@@ -76,6 +76,10 @@ qgis
 
 ---
 
+![Gambar: Aplikasi](images/step7.png)
+
+---
+
 ## 📌 Catatan
 
 - Pastikan koneksi internet stabil selama proses instalasi.
