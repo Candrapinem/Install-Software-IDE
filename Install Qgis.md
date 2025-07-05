@@ -10,7 +10,7 @@ Panduan ini menjelaskan langkah-langkah untuk menginstal QGIS versi stabil terba
 sudo apt install gnupg software-properties-common
 ```
 
-![Gambar: Install gnupg](images/qgis1.png)
+![Gambar: Install gnupg](images/qgis.png)
 
 ---
 
