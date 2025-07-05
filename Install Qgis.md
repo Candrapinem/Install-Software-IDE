@@ -10,7 +10,7 @@ Panduan ini menjelaskan langkah-langkah untuk menginstal QGIS versi stabil terba
 sudo apt install gnupg software-properties-common
 ```
 
-![Gambar: Install gnupg](images/step1.png)
+![Gambar: Install gnupg](images/qgis1.png)
 
 ---
 
@@ -22,7 +22,7 @@ wget -qO - https://qgis.org/downloads/qgis-2020.gpg.key | sudo gpg --no-default-
 sudo chmod a+r /etc/apt/trusted.gpg.d/qgis-archive.gpg
 ```
 
-![Gambar: Tambah GPG Key](images/step2.png)
+![Gambar: Tambah GPG Key](images/qgis2.png)
 
 ---
 
@@ -34,7 +34,7 @@ Perintah berikut akan menambahkan repository QGIS sesuai dengan versi Ubuntu kam
 sudo add-apt-repository "deb https://qgis.org/debian `lsb_release -c -s` main"
 ```
 
-![Gambar: Tambah repository](images/step3.png)
+![Gambar: Tambah repository](images/qgis3.png)
 
 ---
 
@@ -44,7 +44,7 @@ sudo add-apt-repository "deb https://qgis.org/debian `lsb_release -c -s` main"
 sudo apt update
 ```
 
-![Gambar: Update repo](images/step4.png)
+![Gambar: Update repo](images/qgis4.png)
 
 ---
 
@@ -60,7 +60,7 @@ sudo apt install qgis qgis-plugin-grass
 sudo apt install qgis qgis-plugin-grass qgis-server
 ```
 
-![Gambar: Install QGIS](images/step5.png)
+![Gambar: Install QGIS](images/qgis5.png)
 
 ---
 
@@ -72,11 +72,11 @@ Tulis perintah berikut di terminal untuk menjalankan QGIS:
 qgis
 ```
 
-![Gambar: Jalankan QGIS](images/step6.png)
+![Gambar: Jalankan QGIS](images/qgis6.png)
 
 ---
 
-![Gambar: Aplikasi](images/step7.png)
+![Gambar: Aplikasi](images/qgis7.png)
 
 ---
 
