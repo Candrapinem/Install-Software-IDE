@@ -71,10 +71,10 @@ https://idolinux.com/install-octave-ubuntu/
 
 Untuk setiap langkah di atas, pastikan screenshot disimpan dalam folder images/ dan diberi nama sebagai berikut:
 
-| Langkah                        | Nama Gambar              |
-|-------------------------------|--------------------------|
-| Update sistem                 | update-system.png        |
-| Tambahkan repository Octave   | add-ppa-octave.png       |
-| Update daftar paket           | update-package.png       |
-| Install octave                | install-octave.png       |
-| Menjalankan Octave            | run-octave.png           |
+|   Langkah                     |   Nama Gambar             |
+|-------------------------------|---------------------------|
+| Update sistem                 |   Octave1.png             |
+| Tambahkan repository Octave   |   Octave2.png             |
+| Update daftar paket           |   Octave3.png             |
+| Install octave                |   Octave4.png             |
+| Menjalankan Octave            |   Octave5.png             |
