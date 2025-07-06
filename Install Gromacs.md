@@ -11,6 +11,8 @@ Dokumen ini menjelaskan langkah-langkah untuk menginstal **GROMACS 2025.0** di U
 sudo apt update && sudo apt upgrade -y
 ```
 
+![Gambar: Install gnupg](images/Gromac1.png)
+
 ---
 
 ## 📦 2. Cek dan Install Compiler C++
