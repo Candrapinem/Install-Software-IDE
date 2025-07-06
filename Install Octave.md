@@ -9,9 +9,9 @@ Panduan ini menjelaskan langkah-langkah untuk menginstal GNU Octave versi terbar
 
 Sebelum menginstal software baru, sebaiknya update sistem terlebih dahulu:
 
----bash
+```bash
 sudo apt update && sudo apt upgrade -y
-
+```
 ![Update Sistem](images/Octave1.png)
 
 ---
@@ -20,9 +20,9 @@ sudo apt update && sudo apt upgrade -y
 
 Versi terbaru Octave tidak selalu tersedia di repository bawaan Ubuntu. Tambahkan PPA resmi berikut:
 
----bash
+```bash
 sudo add-apt-repository ppa:ubuntuhandbook1/octave
-
+```
 ![Add PPA Octave](images/Octave2.png)
 
 ---
@@ -31,9 +31,9 @@ sudo add-apt-repository ppa:ubuntuhandbook1/octave
 
 Setelah menambahkan repository, perbarui daftar paket:
 
----bash
+```bash
 sudo apt update
-
+```
 ![Update Paket](images/Octave3.png)
 
 ---
@@ -42,9 +42,9 @@ sudo apt update
 
 Jalankan perintah berikut untuk menginstal Octave:
 
----bash
+```bash
 sudo apt install octave -y
-
+```
 ![Install Octave](images/Octave4.png)
 
 ---
@@ -53,9 +53,9 @@ sudo apt install octave -y
 
 Setelah instalasi selesai, kamu bisa menjalankan Octave dengan mengetik:
 
----bash
+```bash
 octave
-
+```
 ![Jalankan Octave](images/Octave5.png)
 
 ---
