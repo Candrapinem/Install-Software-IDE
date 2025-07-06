@@ -11,11 +11,12 @@ Gunakan salah satu dari dua perintah berikut:
 
 curl -s https://dl.openfoam.com/add-debian-repo.sh | sudo bash
 ```
+![Tambah Repo](images/OpenFOAM1.png)
 atau:
 ```bash
 wget -q -O - https://dl.openfoam.com/add-debian-repo.sh | sudo bash
 ```
-![Tambah Repo](images/OpenFOAM1.png)
+
 ![Tambah Repo](images/OpenFOAM2.png)
 
 ---
