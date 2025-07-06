@@ -10,9 +10,9 @@ Pertama, instal R terlebih dahulu:
 ```bash
 sudo apt-get install r-base
 ```
+
 ![Install R](images/Rstudio1.png)
 
----
 
 ## 🔧 2. Install RStudio Server
 
@@ -20,6 +20,7 @@ sudo apt-get install r-base
 ```bash
 sudo apt-get install gdebi-core
 ```
+
 ![Install gdebi](images/Rstudio2.png)
 
 ### b. Unduh file installer RStudio Server
