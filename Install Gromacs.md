@@ -76,73 +76,65 @@ Unduh versi terbaru dari:
 tar xvf gromacs-2025.0.tar.gz
 ```
 ![Gambar: Install gnupg](images/Gromac7.png)
----
 
-## 📁 6. Persiapan Build Directory
+---
+## 📁 7. Persiapan Build Directory
 
 Masuk ke folder hasil ekstrak:
 
-```bash
-cd gromacs-2025.0
-mkdir build
-cd build
-```
+![Gambar: Install gnupg](images/Gromac8.png)
 
----
-
-## ⚙️ 7. Generate Build File dengan CMake
+## ⚙️ 8. Generate Build File dengan CMake
 
 ```bash
 sudo cmake .. -DGMX_BUILD_OWN_FFTW=ON -DREGRESSIONTEST_DOWNLOAD=ON
 ```
+![Gambar: Install gnupg](images/Gromac9.png)
 
----
 
-## 🧱 8. Kompilasi GROMACS
+## 🧱 9. Kompilasi GROMACS
 
 ```bash
 sudo make
 ```
-
-> Proses ini memerlukan waktu beberapa menit.
+![Gambar: Install gnupg](images/Gromac10.png)
 
 ---
 
-## ✅ 9. Verifikasi Build
+## ✅ 10.	After the make compilation is done, type “make check” followed by enter. This process will also take time to complate, nearly 20-30 minute
 
 ```bash
 sudo make check
 ```
-
+![Gambar: Install gnupg](images/Gromac11.png)
 > Akan memakan waktu ±20–30 menit.
 
 ---
 
-## 📦 10. Instalasi Final
+## 📦 11. Instalasi Final
 
 ```bash
-sudo make install
-source /usr/local/gromacs/bin/GMXRC
+sudo make install source /usr/local/gromacs/bin/GMXRC
 ```
+![Gambar: Install gnupg](images/Gromac12.png)
 
 ---
 
-## 🧪 11. Alternatif: Install langsung via APT
+## 🧪 12.	Install gromacs
 
 ```bash
 sudo apt install gromacs
 ```
+![Gambar: Install gnupg](images/Gromac13.png)
 
 ---
 
-## ▶️ 12. Jalankan GROMACS
-
-Coba perintah berikut untuk memverifikasi instalasi:
+## ▶️ 13.	Which will complate the Gromacs-2025 installation in ubuntu linux. The “gmx” command in the terminal should now give output like these:
 
 ```bash
 gmx
 ```
-
+![Gambar: Install gnupg](images/Gromac14.png)
 Jika berhasil, akan muncul tampilan seperti versi GROMACS, opsi command-line, dll.
 
 ---
