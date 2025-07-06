@@ -20,6 +20,7 @@ sudo apt update && sudo apt upgrade -y
 ```bash
 sudo apt-get install g++
 ```
+![Gambar: Install gnupg](images/Gromac2.png)
 
 ---
 
@@ -28,7 +29,7 @@ sudo apt-get install g++
 ```bash
 sudo apt install build-essential
 ```
-
+![Gambar: Install gnupg](images/Gromac3.png)
 ---
 
 ## ⚙️ 4. Install `cmake` Versi 3.25 (Pengganti cmake default 3.16)
@@ -39,17 +40,29 @@ sudo apt install build-essential
 sudo apt remove cmake
 ```
 
+![Gambar: Install gnupg](images/Gromac4.png)
+
+---
+
 ### b. Install Snap (jika belum ada):
 
 ```bash
 sudo apt install snap
 ```
 
+![Gambar: Install gnupg](images/Gromac5.png)
+
+---
+
 ### c. Install cmake versi 3.25 via snap:
 
 ```bash
 sudo snap install cmake --classic
 ```
+![Gambar: Install gnupg](images/Gromac6.png)
+
+---
+
 
 > ❗ `--classic` memberi akses penuh ke sistem — gunakan dengan hati-hati.
 
