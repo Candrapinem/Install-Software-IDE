@@ -56,15 +56,12 @@ sudo apt install snap
 
 ### c. Install cmake versi 3.25 via snap:
 
+And then install cmake. This command will give security warning and to add –classic. The classic flag is used with the snap install command to install a classic snap, which is a snap that has full access to the system and can run without confinement. Installing a classic snap can potentially pose a security risk, as it can give the snap access to sensitive system resources and data
+
 ```bash
 sudo snap install cmake --classic
 ```
 ![Gambar: Install gnupg](images/Gromac6.png)
-
----
-
-
-> ❗ `--classic` memberi akses penuh ke sistem — gunakan dengan hati-hati.
 
 ---
 
@@ -73,12 +70,12 @@ sudo snap install cmake --classic
 Unduh versi terbaru dari:  
 🔗 https://manual.gromacs.org/documentation/
 
-Misalnya file `gromacs-2025.0.tar.gz` berada di folder **Downloads**, jalankan:
+## 📁 6. Go to the download folder and unzip “gromacs-2025.0.tar.gz
 
 ```bash
 tar xvf gromacs-2025.0.tar.gz
 ```
-
+![Gambar: Install gnupg](images/Gromac7.png)
 ---
 
 ## 📁 6. Persiapan Build Directory
