@@ -86,7 +86,6 @@ sudo touch /usr/share/applications/paraview.desktop
 
 sudo nano /usr/share/applications/paraview.desktop
 ```
-![Gambar:](images/Paraview9.png)
 
 ### c. Isi kontennya seperti ini:
 ```bash
@@ -104,10 +103,12 @@ Name=New Window
 Exec=paraview
 TargetEnvironment=Unity
 ```
+![Gambar:](images/Paraview9.png)
+
 ---
 
 Setelah itu, icon launcher ParaView akan muncul di menu aplikasi Ubuntu.
-![Gambar:](images/Paraview10.png)
+![Gambar:](images/Paraview10.PNG)
 
 ---
 
