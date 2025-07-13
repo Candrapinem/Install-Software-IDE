@@ -53,3 +53,9 @@ sudo apt install code
 ## 🔗 Sumber Resmi
 
 https://code.visualstudio.com/docs/setup/linux
+
+## 📁 File Asli
+
+Kamu juga bisa mengunduh file panduan asli dalam format Word di sini:
+📄 [`Panduan install Qgis.docx`](https://github.com/Candrapinem/Install-Software-IDE/blob/main/Panduan%20install%20VSCode.docx)
+
