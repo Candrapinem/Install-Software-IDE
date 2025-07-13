@@ -27,7 +27,7 @@ echo "deb [arch=amd64,arm64,armhf signed-by=/etc/apt/keyrings/packages.microsoft
 
 rm -f packages.microsoft.gpg
 ```
-![Gambar:](images/VS_Code2.png)
+![Gambar:](images/VS_Code2.PNG)
 
 ---
 
