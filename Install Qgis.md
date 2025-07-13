@@ -98,5 +98,3 @@ Semua gambar langkah-langkah diambil langsung dari proses instalasi pada sistem 
 
 Kamu juga bisa mengunduh file panduan asli dalam format Word di sini:
 📄 [`Panduan install Qgis di ubuntu 24.docx`](https://github.com/Candrapinem/Install-Software-IDE/blob/main/Panduan%20install%20Qgis.docx)
-
-📄 [`Panduan install Qgis di ubuntu 24.docx`](./Panduan%20install%20Qgis%20di%20ubuntu%2024.docx)
